@@ -1,2 +1,3 @@
-# ProgUzytkowe
-ProgUzytkowe
+# Jan Felenczak
+## ProgUzytkowe
+podsumowanie projektu
